@@ -1,11 +1,11 @@
 @font-face {
     font-family: denim;
-    src: url(denimbold.ttf);
+    src: url(denimbold.woff2);
 }
 
 @font-face {
     font-family: press;
-    src: url(pressgothic.otf);
+    src: url(pressgothic.woff2);
 }
 @font-face {
     font-family: sst;
@@ -298,7 +298,7 @@ color: white;
 
 @font-face {
     font-family: pop;
-    src: url(Poppins-ExtraLight.ttf);
+    src: url(Poppins-ExtraLight.woff2);
 }
 .playstation-img img{
     width: 40vw;
@@ -458,7 +458,7 @@ border-radius: 20px;
 
 @font-face {
     font-family: open;
-    src: url(OpenSans-VariableFont_wdth\,wght.ttf);
+    src: url(OpenSans-VariableFont_wdth\,wght.woff2);
 }
 .playstation-golden img{
     width: 100%;
@@ -640,7 +640,7 @@ justify-content: center;
 }
 @font-face {
     font-family: slice;
-    src: url(Sliced\ Down\ Tilted.otf);
+    src: url(Sliced\ Down\ Tilted.woff2);
 }
 .footer h1{
 font-family:slice;
