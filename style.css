@@ -515,22 +515,22 @@ font-family: Arial, Helvetica, sans-serif;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(204, 199, 199);
 }
-.aprilrelease .img1 img{
+.aprilrelease .img2 img{
     border-radius: 30px;
     width: 550px;
     height: 300px;
 }
-.aprilrelease .img1 h1,p{
+.aprilrelease .img2 h1,p{
     font-family: poppins;
     color: white;
     margin-top: 15px;
     
 }
-.aprilrelease .img1 h1{
+.aprilrelease .img2 h1{
     font-size: 1.5em;
     font-family: Arial, Helvetica, sans-serif;
 }
-.aprilrelease .img1 p{
+.aprilrelease .img2 p{
     font-size: 0.8em;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -547,16 +547,16 @@ font-family: Arial, Helvetica, sans-serif;
     height: 500px;
    
 }
-.aprilrelease::before{
+/* .aprilrelease::before{
    margin-bottom: 0px !important;
-}
+} */
 /* *{
     border: 2px solid red;
 } */
-.img1{
+.img2{
    padding: 30px;
 }
-.img1:hover{
+.img2:hover{
     background-color: rgba(0, 0, 0, 0.644);
     border-radius: 30px;
     outline: 2px solid white;
